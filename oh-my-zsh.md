@@ -2,14 +2,18 @@
 
 Oh My Zsh é uma estrutura de código aberto e orientada pela comunidade para gerenciar sua configuração do Zsh.
 
-Parece chato. Vamos tentar de novo.
+## Instalar o ZSH
 
-Oh My Zsh não fará de você um desenvolvedor 10x...mas você pode se sentir como um!
+```bash
+sudo apt install zsh
+```
 
-Uma vez instalado, seu terminal shell se tornará o assunto da cidade ou seu dinheiro de volta! A cada tecla pressionada em seu prompt de comando, você aproveitará centenas de plugins poderosos e belos temas. Estranhos virão até você em cafés e perguntarão: "isso é incrível! você é algum tipo de gênio?"
+Verificar a versão 
 
-Finalmente, você começará a receber o tipo de atenção que sempre achou que merecia. ...ou talvez você use o tempo que está economizando para começar a usar fio dental com mais frequência. 😬 
-
+```bash
+zsh --version
+zsh 5.8.1 (x86_64-ubuntu-linux-gnu)
+```
 
 ## Install oh-my-zsh now
 
