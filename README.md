@@ -1,4 +1,8 @@
-# wsl
+# [![WSL - Windows Subsystem for Linux](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=WSL+-+Windows+Subsystem+for+Linux)](https://git.io/typing-svg)
+
+<div align="center">
+   <img src="wsl.jpg">
+</div>
 
 ### O que é o WSL?
 
@@ -97,4 +101,4 @@ Se você trabalha com desenvolvimento de software ou precisa de um ambiente de d
 
 ### Adicional !!!
 
-Instalar o oh-my-zsh
+[Instalar o oh-my-zsh](oh-my-zsh.md)
